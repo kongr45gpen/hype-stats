@@ -1,5 +1,4 @@
 #!/usr/bin/env ruby
-# A script that will pretend to resize a number of images
 
 require 'json'
 require 'optparse'
